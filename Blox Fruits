@@ -1,0 +1,13 @@
+local placeId = game.PlaceId
+
+    if placeId == 2753915549 then
+	    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vxxzb/Venom-Hub/main/Sea%201"))()
+	end
+	
+	if placeId == 4442272183 then
+	    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vxxzb/Venom-Hub/main/Sea%202"))()
+	end
+	
+	if placeId == 7449423635 then
+	    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vxxzb/Venom-Hub/main/Sea%203"))()
+	end
